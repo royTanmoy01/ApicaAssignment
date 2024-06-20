@@ -32,9 +32,9 @@ cd server
 npm i
 npm start
 
--- To Start client
+-- To Start ui
 
-cd client
+cd ui
 npm i
 npm start
 
